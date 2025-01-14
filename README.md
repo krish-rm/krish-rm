@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishnakumar R</h1>
+<h1 align="center">Hi 👋, I'm Krishnakumar RM</h1>
 <h3 align="center">A techie toying with entrepreneurship and day trading</h3>
 
 - 🔭 I’m currently working on **ML for capital markets**
