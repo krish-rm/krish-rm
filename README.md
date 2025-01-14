@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krishnakumar R</h1>
 <h3 align="center">A techie toying with entrepreneurship and day trading</h3>
 
-- 🔭 I’m currently working on **IOT and ML for capital markets**
+- 🔭 I’m currently working on **ML for capital markets**
 
-- 🌱 I’m currently learning **MLOps and exploring AR/VR projects**
+- 🌱 I’m currently learning **MLOps, IOT and exploring AR/VR software integration**
 
 - ⚡ Fun fact **The biggest risk I’ve taken? Starting a business with zero experience. Spoiler alert: It wasn’t a “get rich quick” situation — more like “get broke slow.”**
 
