@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **The biggest risk I’ve taken? Starting a business with zero experience. Spoiler alert: It wasn’t a “get rich quick” situation — more like “get broke slow.”**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
